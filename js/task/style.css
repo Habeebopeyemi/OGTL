@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  border: 1px solid gray;
+  background-color: rgba(0, 0, 255, 0.563);
+  color: white;
+  display: flex;
+}
+.page_text{
+    text-align: center;
+    flex: 0 1 50%;
+}
